@@ -1,0 +1,16 @@
+GetNewFactIntent give me advice
+GetNewFactIntent give me bad advice
+GetNewFactIntent give me a deep learning fact
+GetNewFactIntent give me deep
+GetNewFactIntent give me learning
+GetNewFactIntent give me a fact
+GetNewFactIntent give me an AI fact
+GetNewFactIntent give me AI advice
+GetNewFactIntent tell me advice
+GetNewFactIntent tell me bad advice
+GetNewFactIntent tell me a deep learning fact
+GetNewFactIntent tell me deep
+GetNewFactIntent tell me learning
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me an AI fact
+GetNewFactIntent tell me AI advice
